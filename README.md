@@ -1,4 +1,4 @@
-create a state:
+juste un canon qui tire des mouettes:
+bruitage: Julien
 
-ex:
-lua53 bin/console create:state <stateName>
+![mouette](assets/Capture.jpeg)
